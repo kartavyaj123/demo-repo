@@ -1,4 +1,4 @@
 # demo-repo
 My first Github Repository.
 <br>
-Autor -  Kartavya Jain
+Autor -  Kartavya Jain (Ips Academy)
